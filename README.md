@@ -1,5 +1,5 @@
 # netflix-gender-exploration
-This project takes the Flixable dataset and gathers the genders of each movies' cast using one of IMDb's public datasets to explore gender in Netflix's selection of movies and tv shows. I wrote an article on medium walking through the intuition in detail here: https://medium.com/@alecchendev/she-treats-he-recruits-analyzing-gender-in-netflixs-catalog-fbe059b26004
+This project takes the Flixable dataset and gathers the genders of each movies' cast using one of IMDb's public datasets to explore gender in Netflix's selection of movies and tv shows. I wrote an article on medium walking through the intuition in detail which was curated and featured in a Medium publication called The Startup: https://medium.com/@alecchendev/she-treats-he-recruits-analyzing-gender-in-netflixs-catalog-fbe059b26004
 
 Netflix data is from the third-party Netflix collection search engine. It provides details of all the movies and tv shows available on Netflix as of 2019. Flixable dataset is available in the repo and on kaggle here: https://www.kaggle.com/shivamb/netflix-shows
 
